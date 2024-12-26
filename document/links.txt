@@ -1,0 +1,5 @@
+httpsdocs.opencv.org4.xd1d89tutorial_py_orb.html
+
+cv2.TM_CCOEFF_NORMED: Normalized cross-correlation, used to find the strongest linear relationship between the template and the search area.
+cv2.TM_SQDIFF: Sum of squared differences, identifies regions with the smallest differences.
+cv2.TM_CCORR: Cross-correlation, which identifies regions with similar patterns.
